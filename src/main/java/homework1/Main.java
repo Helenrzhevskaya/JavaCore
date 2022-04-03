@@ -1,7 +1,11 @@
 package homework1;
 
-import java.awt.*;
-
+/**
+ * Java Core 1. Home work #1
+ *
+ * @author Elena Rzhevskaya
+ * version 03.04.2022
+ */
 import static homework1.Team.nameGeneralTeam;
 
 public class Main {

@@ -24,13 +24,5 @@ class Human extends Team {
 
 
 
-    /** public double jump(Road road) {
-        System.out.println("Я человек, я прыгаю!");
-        if () {
-            System.out.println();
-        } else {
-            System.out.println();
-        }
-    }
-     **/
+
 }
